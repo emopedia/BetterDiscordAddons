@@ -16,9 +16,5 @@ module.exports = (_ => {
 			"version": "1.0.0",
 			"description": "Adds a Period (Fullstop) to the end of a sentence."
 		},
-		"changeLog": {
-			"added": {
-				"Quick Toggle": "Added option to add quick toggle to the message input"
-			}
-		}
 	};
+})();
